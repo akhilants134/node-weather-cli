@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/akhilants134/node-weather-cli#readme",
   "dependencies": {
+    "axios": "^1.13.4",
     "express": "^5.2.1"
   }
 }
